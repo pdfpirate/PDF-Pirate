@@ -13,6 +13,18 @@
   <img src="docs/screenshots/sign.png" alt="Signing a service agreement in PDF Pirate" width="900" />
 </p>
 
+## Download
+
+**[Get the latest release →](https://github.com/pdfpirate/PDF-Pirate/releases/latest)**
+
+| Platform | File |
+| --- | --- |
+| macOS, Apple Silicon | `PDF-Pirate-<version>-arm64.dmg` |
+| macOS, Intel | `PDF-Pirate-<version>-x64.dmg` |
+| Windows 10 and 11 | `PDF-Pirate-Setup-<version>.exe` |
+
+PDF Pirate isn't signed with a paid Apple or Microsoft certificate yet, so the first time you open it your computer will ask you to confirm. On macOS, open **System Settings → Privacy & Security** and click **Open Anyway**. On Windows, click **More info → Run anyway**.
+
 ## Why
 
 I needed to sign a PDF on a computer that didn't have Adobe installed. Rather than pay for a subscription or upload a private document to a website, I built my own.
