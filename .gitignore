@@ -14,5 +14,5 @@ npm-debug.log*
 .DS_Store
 Thumbs.db
 
-# Claude Code local (machine-specific) settings
-.claude/settings.local.json
+# Local tool settings
+.claude/
